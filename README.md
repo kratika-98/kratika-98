@@ -28,4 +28,4 @@ https://kratika-98.github.io
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react" width="40" height="40"/> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kratika-98&theme=neon&border_radius=2.7&show_icons=true" alt="kratika-98" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraika-98&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="kratika-98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kratika-98&" alt="kratika-98" /></p>
