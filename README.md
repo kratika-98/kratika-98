@@ -14,7 +14,7 @@ https://kratika-98.github.io
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pgthuFeV8f3GcmCg4_z1nzHhWMzXr6FY/view?usp=sharing) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kratika-jharbade-15178b21b" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png"" alt="kratika-98" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kratika-jharbade-15178b21b/" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png"" alt="kratika-98" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
    
